@@ -86,7 +86,7 @@ CKEDITOR.editorConfig = function( config )
   config.toolbar_Easy =
     [
         ['Source','-','Preview'],
-        ['Cut','Copy','Paste','PasteText','PasteFromWord',],
+        ['Cut','Copy','Paste','PasteText','PasteFromWord'],
         ['Undo','Redo','-','SelectAll','RemoveFormat'],
         ['Styles','Format'], ['Subscript', 'Superscript', 'TextColor'], ['Maximize','-','About'], '/',
         ['Bold','Italic','Underline','Strike'], ['NumberedList','BulletedList','-','Outdent','Indent','Blockquote'],
